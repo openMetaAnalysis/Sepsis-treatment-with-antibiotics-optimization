@@ -1,10 +1,10 @@
-Template: clinical question
+Severe sepsis and septic shock treatment with fluids
 ============================================
 A living systematic review
 
-Short url: http://
+Short url: http://openmetaanalysis.github.io/sepsis/
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is or is not* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[moderate](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at XX%. This review updates previously published meta-analysis(es).(citation[s] below)
+**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 79%. The heterogeneity may be due to the study by Seymour excluding patients with long delaying in completion of fluids. This review updates previously published meta-analysis(es).(citation[s] below)
 
 Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
@@ -27,25 +27,29 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
 
+<!--
 The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
 ![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 The GRADE Profile is below. ![GRADE Profile](files/GRADE-profiles/Summary-of-findings-table.png "GRADE Profile")
+-->
 
 References:
 ----------------------------------
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Ammendolia C, Stuber KJ, Rok E, Rampersaud R, Kennedy CA, Pennick V, Steenstra IA, de Bruin LK, Furlan AD. Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication. Cochrane Database Syst Rev. 2013 Aug 30;8:CD010712. doi: [10.1002/14651858.CD010712](http://dx.doi.org/10.1002/14651858.CD010712). PMID: [23996271](http://pubmed.gov/23996271).
+Not applicable
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Friedly JL, Comstock BA, Turner JA, Heagerty PJ, Deyo RA, Sullivan SD, Bauer Z, Bresnahan BW, Avins AL, Nedeljkovic SS, Nerenz DR, Standaert C, Kessler L, Akuthota V, Annaswamy T, Chen A, Diehn F, Firtch W, Gerges FJ, Gilligan C,
-Goldberg H, Kennedy DJ, Mandel S, Tyburski M, Sanders W, Sibell D, Smuck M, Wasan A, Won L, Jarvik JG. A randomized trial of epidural glucocorticoid injections for spinal stenosis. N Engl J Med. 2014 Jul 3;371(1):11-21. doi: [10.1056/NEJMoa1313265](http://dx.doi.org/10.1056/NEJMoa1313265). PMID: [24988555](http://pubmed.gov/24988555).
+1. Kuttab HI, Lykins JD, Hughes MD, Wroblewski K, Keast EP, Kukoyi O, Kopec JA, Hall S, Ward MA. Evaluation and Predictors of Fluid Resuscitation in Patients With Severe Sepsis and Septic Shock. Crit Care Med. 2019 Nov;47(11):1582-1590. doi: 10.1097/CCM.0000000000003960. PubMed PMID: [31393324](http://pubmed.gov/31393324).
+2. Pruinelli L, Westra BL, Yadav P, Hoff A, Steinbach M, Kumar V, Delaney CW, Simon G. Delay Within the 3-Hour Surviving Sepsis Campaign Guideline on Mortality for Patients With Severe Sepsis and Septic Shock. Crit Care Med. 2018 Apr;46(4):500-505. doi: 10.1097/CCM.0000000000002949. PubMed PMID: [29298189](http://pubmed.gov/29298189); PubMed Central PMCID: PMC5851815.
+3 .Seymour CW, Gesten F, Prescott HC, Friedrich ME, Iwashyna TJ, Phillips GS, Lemeshow S, Osborn T, Terry KM, Levy MM. Time to Treatment and Mortality during Mandated Emergency Care for Sepsis. N Engl J Med. 2017 Jun 8;376(23):2235-2244. doi: 10.1056/NEJMoa1703058. Epub 2017 May 21. PubMed PMID: [28528569](http://pubmed.gov/28528569); PubMed Central PMCID: PMC5538258.
+4. Leisman D, Wie B, Doerfler M, Bianculli A, Ward MF, Akerman M, D'Angelo JK, Zemmel D'Amore JA. Association of Fluid Resuscitation Initiation Within 30 Minutes of Severe Sepsis and Septic Shock Recognition With Reduced Mortality and Length of Stay. Ann Emerg Med. 2016 Sep;68(3):298-311. doi: [10.1016/j.annemergmed.2016.02.044](http://dx.doi.org/10.1016/j.annemergmed.2016.02.044). Epub 2016 Apr 14. PubMed PMID: [27085369](http://pubmed.gov/27085369).
 
 #### Trial(s) included in the review above
-1. Fukusaki M, Kobayashi I, Hara T, Sumikawa K. Symptoms of spinal stenosis do not improve after epidural steroid injection. Clin J Pain. 1998 Jun;14(2):148-51. PMID:[9647457](http://pubmed.gov/9647457).
+Not applicable
 
 #### Trial(s) undergoing review
 None
