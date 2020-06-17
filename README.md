@@ -46,13 +46,13 @@ Not applicable
 1. Kuttab HI, Lykins JD, Hughes MD, Wroblewski K, Keast EP, Kukoyi O, Kopec JA, Hall S, Ward MA. Evaluation and Predictors of Fluid Resuscitation in Patients With Severe Sepsis and Septic Shock. Crit Care Med. 2019 Nov;47(11):1582-1590. doi: 10.1097/CCM.0000000000003960. PubMed PMID: [31393324](http://pubmed.gov/31393324).
 2. Pruinelli L, Westra BL, Yadav P, Hoff A, Steinbach M, Kumar V, Delaney CW, Simon G. Delay Within the 3-Hour Surviving Sepsis Campaign Guideline on Mortality for Patients With Severe Sepsis and Septic Shock. Crit Care Med. 2018 Apr;46(4):500-505. doi: 10.1097/CCM.0000000000002949. PubMed PMID: [29298189](http://pubmed.gov/29298189); PubMed Central PMCID: PMC5851815.
 3 .Seymour CW, Gesten F, Prescott HC, Friedrich ME, Iwashyna TJ, Phillips GS, Lemeshow S, Osborn T, Terry KM, Levy MM. Time to Treatment and Mortality during Mandated Emergency Care for Sepsis. N Engl J Med. 2017 Jun 8;376(23):2235-2244. doi: 10.1056/NEJMoa1703058. Epub 2017 May 21. PubMed PMID: [28528569](http://pubmed.gov/28528569); PubMed Central PMCID: PMC5538258.
-4. Leisman D, Wie B, Doerfler M, Bianculli A, Ward MF, Akerman M, D'Angelo JK, Zemmel D'Amore JA. Association of Fluid Resuscitation Initiation Within 30 Minutes of Severe Sepsis and Septic Shock Recognition With Reduced Mortality and Length of Stay. Ann Emerg Med. 2016 Sep;68(3):298-311. doi: [10.1016/j.annemergmed.2016.02.044](http://dx.doi.org/10.1016/j.annemergmed.2016.02.044). Epub 2016 Apr 14. PubMed PMID: [27085369](http://pubmed.gov/27085369).
+4. Leisman D, Wie B, Doerfler M, Bianculli A, Ward MF, Akerman M, D'Angelo JK, Zemmel D'Amore JA. Association of Fluid Resuscitation Initiation Within 30 Minutes of Severe Sepsis and Septic Shock Recognition With Reduced Mortality and Length of Stay. Ann Emerg Med. 2016 Sep;68(3):298-311. doi: [10.1016/j.annemergmed.2016.02.044](http://dx.doi.org/10.1016/j.annemergmed.2016.02.044). Epub 2016 Apr 14.  PMID: [27085369](http://pubmed.gov/27085369).
 
 #### Trial(s) included in the review above
 Not applicable
 
-#### Trial(s) undergoing review
-None
+#### Studie(s) undergoing review
+1. Meyhoff TS, Møller MH, Hjortrup PB, Cronhjort M, Perner A, Wetterslev J. Lower vs Higher Fluid Volumes During Initial Management of Sepsis: A Systematic Review With Meta-Analysis and Trial Sequential Analysis. Chest. 2020 Jun;157(6):1478-1496. doi: 10.1016/j.chest.2019.11.050. Epub 2020 Jan 23. PMID: [31982391](http://pubmed.gov/31982391).
 
 #### Trial(s) excluded - selected list of important trial(s)
 
