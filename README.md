@@ -53,6 +53,7 @@ Not applicable
 
 #### Studie(s) undergoing review
 1. Meyhoff TS, Møller MH, Hjortrup PB, Cronhjort M, Perner A, Wetterslev J. Lower vs Higher Fluid Volumes During Initial Management of Sepsis: A Systematic Review With Meta-Analysis and Trial Sequential Analysis. Chest. 2020 Jun;157(6):1478-1496. doi: 10.1016/j.chest.2019.11.050. Epub 2020 Jan 23. PMID: [31982391](http://pubmed.gov/31982391).
+2. Hu B, Chen JCY, Dong Y, Frank RD, Passe M, Portner E, Peng Z, Kashani K. Effect of initial infusion rates of fluid resuscitation on outcomes in patients with septic shock: a historical cohort study. Crit Care. 2020 Apr 7;24(1):137. doi: 10.1186/s13054-020-2819-5. PMID: [32264936](http://pubmed.gov/32264936).
 
 #### Trial(s) excluded - selected list of important trial(s)
 
