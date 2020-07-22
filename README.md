@@ -59,7 +59,7 @@ Not applicable
 
 #### Trial(s) excluded - selected list of important trial(s)
 1. Marik PE, Linde-Zwirble WT, Bittner EA, Sahatjian J, Hansell D. Fluid administration in severe sepsis and septic shock, patterns and outcomes: an analysis of a large national database. Intensive Care Med. 2017 May;43(5):625-632. doi: 10.1007/s00134-016-4675-y. Epub 2017 Jan 27. PubMed PMID: [28130687](http://pubmed.gov/28130687). *Did not analyze 30 cc/kg within 3 hours vs slower* 
-1. Prasad PA, Shea ER, Shiboski S, Sullivan MC, Gonzales R, Shimabukuro D. Relationship Between a Sepsis Intervention Bundle and In-Hospital Mortality Among Hospitalized Patients: A Retrospective Analysis of Real-World Data. Anesth Analg. 2017 Aug;125(2):507-513. doi: 10.1213/ANE.0000000000002085. PubMed PMID: [28514322](http://pubmed.gov/28514322) 8 Did not sefine size of bolus that qualifies as compliant. Did not adjust analysis for comorbidity*
+1. Prasad PA, Shea ER, Shiboski S, Sullivan MC, Gonzales R, Shimabukuro D. Relationship Between a Sepsis Intervention Bundle and In-Hospital Mortality Among Hospitalized Patients: A Retrospective Analysis of Real-World Data. Anesth Analg. 2017 Aug;125(2):507-513. doi: 10.1213/ANE.0000000000002085. PubMed PMID: [28514322](http://pubmed.gov/28514322) *Did not define size of bolus that qualifies as compliant. Did not adjust analysis for comorbidity*
 
 #### Cited by
 This repository is cited by:
