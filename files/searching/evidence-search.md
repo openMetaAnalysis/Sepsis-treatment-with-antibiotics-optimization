@@ -17,8 +17,8 @@ Randomized trials of [disease] that compare [intervention] to placebo.
 ### Vector searching ('Related citations' search)
 (under construction)
 Seed articles: PMIDs [26314489,28552271,28140013,9851958,2897005](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&tool=SUMSearch2plugins&otool=kumclib&term=26314489%2028552271%2028140013%209851958%202897005)
-* [595 citations](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=26314489,28552271,28140013,9851958,2897005)
-* 99 citations when above limited to years 2014 - 2017 (time period after Cochrane review)
+* [595 citations](https://pmlegacy.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=27085369,28671898,29298189,24853382,31393324,28528569)
+* x citations when above limited to years 201x - 2020 (time period after last systematic review)
   * [X additional articles found](https://www.ncbi.nlm.nih.gov/pubmed?linkname=pubmed_pubmed&from_uid=15570651)
 
 ## ClinicalTrials.gov
