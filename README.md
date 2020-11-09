@@ -41,8 +41,9 @@ References:
 #### Most recent review at time of last revision of this repository
 Not applicable
 
-### Randomized controlled trials
-#### New trial(s) *not* included in the most recent review above
+### Studies
+#### New studie(s) *not* included in the most recent review above
+1. Khan RA, Khan NA, Bauer SR, Li M, Duggal A, Wang X, Reddy AJ. Association Between Volume of Fluid Resuscitation and Intubation in High-Risk Patients With Sepsis, Heart Failure, End-Stage Renal Disease, and Cirrhosis. Chest. 2020 Feb;157(2):286-292. doi: 10.1016/j.chest.2019.09.029. Epub 2019 Oct 14. PMID: [31622591](http://pubmed.gov/31622591).
 1. Kuttab HI, Lykins JD, Hughes MD, Wroblewski K, Keast EP, Kukoyi O, Kopec JA, Hall S, Ward MA. Evaluation and Predictors of Fluid Resuscitation in Patients With Severe Sepsis and Septic Shock. Crit Care Med. 2019 Nov;47(11):1582-1590. doi: 10.1097/CCM.0000000000003960. PubMed PMID: [31393324](http://pubmed.gov/31393324).
 1. Lee SJ, Ramar K, Park JG, Gajic O, Li G, Kashyap R. Increased fluid administration in the first three hours of sepsis resuscitation is associated with reduced mortality: a retrospective cohort study. Chest. 2014 Oct;146(4):908-915. doi: 10.1378/chest.13-2702. PubMed PMID: [24853382](http://pubmed.gov/24853382); PubMed Central PMCID: PMC4188147.
 1. Leisman D, Wie B, Doerfler M, Bianculli A, Ward MF, Akerman M, D'Angelo JK, Zemmel D'Amore JA. Association of Fluid Resuscitation Initiation Within 30 Minutes of Severe Sepsis and Septic Shock Recognition With Reduced Mortality and Length of Stay. Ann Emerg Med. 2016 Sep;68(3):298-311. doi: [10.1016/j.annemergmed.2016.02.044](http://dx.doi.org/10.1016/j.annemergmed.2016.02.044). Epub 2016 Apr 14.  PMID: [27085369](http://pubmed.gov/27085369).
