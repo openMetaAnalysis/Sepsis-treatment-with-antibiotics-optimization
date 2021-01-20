@@ -4,21 +4,19 @@ We developed inclusion criteria using the methods of a scoping review in which "
 
 We included cohort studies that reported:
 
-The adjusted odds ratio for survival or death for one of the following questions:
+The adjusted odds ratio (with 95% CI) of survival or death for one of the following questions:
 * Speed of starting fluids
   * Fluids started with a specified interval (eg, 30 or 60 minutes) versus longer. Example: Leisman, Ann Emerg Med 2016 PMID [27085369](http://pubmed.gov/27085369)
   * Odds ratio for each hour of delay for starting. Example: Leisman, Crit Care Med 2017 PMID [28671898](http://pubmed.gov/28671898)
 * Speed of completing 30 ml/kg
   * Completing within a specified time interval (eg, 3 or 6 hours). Example: Kuttab, Crit Care Med 2020 PMID [31393324](http://pubmed.gov/31393324)
   * Odds ratio for each hour of delay in completing. Example, Seymour. NEJM 2017 (see top row of figure S4 in the supplement) PMID [28528569](http://pubmed.gov/28528569)
-
-The median/mean (with 95% CI or IQR) for time or volume in survivors compared to decedents for
 * Speed of infusion
-  * Time required for infusion of 30 ml/kg. Example: Hu, Critical Care 2020 PMID [32264936](http://pubmed.gov/32264936)
-  * Average rate of infusion during 30 ml/kg. Example: Hu, Critical Care 2020 PMID [32264936](http://pubmed.gov/32264936)
+  * The adjusted odds ratio of survival or death after stratifying by a speed. Example stratifying at 0.25 ml/kg/min overl 30 ml/kg as cutoff: Hu, Critical Care 2020 PMID [32264936](http://pubmed.gov/32264936)
+* Volume of infusion
+  * The adjusted odds ratio of survival or death per volumen infused over a specified interval (eg, 3 or 6 hours). Example: Lee, Chest 2014 PMID [24853382](http://pubmed.gov/24853382)
 * Other analysis
-  * Proportion of total fluid received within for 3 hours. Example: Lee, Chest 2014 PMID [24853382](http://pubmed.gov/24853382)
-  * Median volume received within a specified interval (eg, 3 or 6 hours). Example: Lee, Chest 2014 PMID [24853382](http://pubmed.gov/24853382)
+  * The adjusted odds ratio of survival or death per proportion of total fluid received within for 3 hours. Example: Lee, Chest 2014 PMID [24853382](http://pubmed.gov/24853382)
 
 ## Reconciliation tables
 (under construction)
