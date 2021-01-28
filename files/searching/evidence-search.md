@@ -4,7 +4,11 @@ We developed inclusion criteria using the methods of a scoping review in which "
 
 We included cohort studies that reported:
 
-The adjusted odds ratio (with 95% CI) of survival or death for one of the following questions:
+One of the following outcomes:
+* The adjusted odds ratio (with 95% CI) of survival or death 
+* Adjusted hazard ratio or restricted mean survival time (RMST, PMID [32203984](http://pubmed.gov/32203984)) (with 95% CI) for length of hospital or ICU stay
+
+For one of the following questions/exposures:
 * Speed of starting fluids
   * Fluids started with a specified interval (eg, 30 or 60 minutes) versus longer. Example: Leisman, Ann Emerg Med 2016 PMID [27085369](http://pubmed.gov/27085369)
   * Odds ratio for each hour of delay for starting. Example: Leisman, Crit Care Med 2017 PMID [28671898](http://pubmed.gov/28671898)
@@ -17,7 +21,7 @@ The adjusted odds ratio (with 95% CI) of survival or death for one of the follow
   * The adjusted odds ratio of survival or death per volumen infused over a specified interval (eg, 3 or 6 hours). Example: Lee, Chest 2014 PMID [24853382](http://pubmed.gov/24853382)
 * Other analysis
   * The adjusted odds ratio of survival or death per proportion of total fluid received within for 3 hours. Example: Lee, Chest 2014 PMID [24853382](http://pubmed.gov/24853382)
-
+  
 ## Reconciliation tables
 (under construction)
 * [Comparison of included studies with studies included in prior systematic reviews](../reconciliation-tables)
