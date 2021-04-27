@@ -39,7 +39,7 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-Not applicable
+1. Reynolds PM, Wells L, MacLaren R, Scoular SK. Establishing the Therapeutic Index of Fluid Resuscitation in the Septic Patient: A Narrative Review and Meta-Analysis. Pharmacotherapy. 2020 Mar;40(3):256-269. doi: 10.1002/phar.2371. Epub 2020 Feb 18. PMID: [31970818](http://pubmed.gov/31970818).
 
 ### Studies
 #### New studie(s) *not* included in the most recent review above
