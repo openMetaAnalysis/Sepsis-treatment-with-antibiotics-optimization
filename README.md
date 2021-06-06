@@ -17,7 +17,7 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 * [Evidence search](files/searching/evidence-search.md) for this review (under construction)
 
 **Results:** Details of the studies included are in the:
-* [Reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf) (under construction)
+* [Reconciliation of cohorts included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf)
 * [Description of studies (PICO table)](files/study-details/table-pico.pdf) (under construction)
 * [Risk of bias assessment](files/study-details/table-bias.pdf) (under construction)
 * [Forest plots](../master/files/forest-plots) ([source data](files/data))
