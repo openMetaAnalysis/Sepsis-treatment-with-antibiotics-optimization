@@ -23,8 +23,9 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 * [Description of studies (PICO table)](files/study-details/table-pico.pdf) (under construction)
 * [Risk of bias assessment (Clarity)](files/study-details/table-bias.pdf) (under construction)
 * [Forest plots](../master/files/forest-plots) ([source data](files/data))
-* [Network plots](../master/files/network) (optional)
-* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
+<!-- * [Network plots](../master/files/network) (optional)
+* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction) -->
+* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions%20-%20fluids%20for%20sepsis.pdf)
 
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
@@ -41,7 +42,10 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Reynolds PM, Wells L, MacLaren R, Scoular SK. Establishing the Therapeutic Index of Fluid Resuscitation in the Septic Patient: A Narrative Review and Meta-Analysis. Pharmacotherapy. 2020 Mar;40(3):256-269. doi: 10.1002/phar.2371. Epub 2020 Feb 18. PMID: [31970818](http://pubmed.gov/31970818).
+1. Kalil AC, Johnson DW, Lisco SJ, Sun J. Early Goal-Directed Therapy for Sepsis: A Novel Solution for Discordant Survival Outcomes in Clinical Trials. Crit Care Med. 2017 Apr;45(4):607-614. doi: 10.1097/CCM.0000000000002235. PMID: [28067711](http://pubmed.gov/28067711).
+2. Pepper DJ, Jaswal D, Sun J, Welsh J, Natanson C, Eichacker PQ. Evidence Underpinning the Centers for Medicare & Medicaid Services' Severe Sepsis and Septic Shock Management Bundle (SEP-1): A Systematic Review. Ann Intern Med. 2018 Apr 17;168(8):558-568. doi: 10.7326/M17-2947. Epub 2018 Feb 20. Erratum in: Ann Intern Med. 2018 Apr 17;168(8):612. PMID: [29459977](http://pubmed.gov/29459977).
+3. Reynolds PM, Wells L, MacLaren R, Scoular SK. Establishing the Therapeutic Index of Fluid Resuscitation in the Septic Patient: A Narrative Review and Meta-Analysis. Pharmacotherapy. 2020 Mar;40(3):256-269. doi: 10.1002/phar.2371. Epub 2020 Feb 18. PMID: [31970818](http://pubmed.gov/31970818).
+4. Meyhoff TS, Møller MH, Hjortrup PB, Cronhjort M, Perner A, Wetterslev J. Lower vs Higher Fluid Volumes During Initial Management of Sepsis: A Systematic Review With Meta-Analysis and Trial Sequential Analysis. Chest. 2020 Jun;157(6):1478-1496. doi: 10.1016/j.chest.2019.11.050. Epub 2020 Jan 23. PMID: [3198239](http://pubmed.gov/3198239).
 
 ### Studies
 #### New studie(s) *not* included in the most recent review above
