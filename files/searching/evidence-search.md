@@ -30,7 +30,7 @@ Not addressed in this review
 (under construction)
 ### Boolean term searching
 
-[("Fluid Therapy"[MAJR]) OR fluid[tw] OR solutions[tw])) AND (survival[tw] OR surviving[tw] OR resuscitation[tw] OR "Resuscitation"[MAJR])) AND (“Shock, Septic”[Mesh] OR "Sepsis"[MAJR] OR sepsis[tw] OR "septic shock") AND (early[tw] OR hours OR hours OR minutes OR “3-hour” OR "Time Factors"[Mesh] OR "time-to-treatment" OR "time to treatment" OR "Time-to-Treatment"[Mesh] OR “time factor”[tw]) AND (english[Filter]); Date limited to 2000-2020](https://pubmed.ncbi.nlm.nih.gov/?term=(%22Fluid+Therapy%22%5BMAJR%5D)+OR+fluid%5Btw%5D+OR+solutions%5Btw%5D))+AND+(survival%5Btw%5D+OR+surviving%5Btw%5D+OR+resuscitation%5Btw%5D+OR+%22Resuscitation%22%5BMAJR%5D))+AND+(%E2%80%9CShock%2C+Septic%E2%80%9D%5BMesh%5D+OR+%22Sepsis%22%5BMAJR%5D+OR+sepsis%5Btw%5D+OR+%22septic+shock%22)+AND+(early%5Btw%5D+OR+hours+OR+hours+OR+minutes+OR+%E2%80%9C3-hour%E2%80%9D+OR+%22Time+Factors%22%5BMesh%5D+OR+%22time-to-treatment%22+OR+%22time+to+treatment%22+OR+%22Time-to-Treatment%22%5BMesh%5D+OR+%E2%80%9Ctime+factor%E2%80%9D%5Btw%5D)+AND+(english%5BFilter%5D)&sort=pubdate)
+[("Fluid Therapy"[MAJR]) OR fluid[tw] OR solutions[tw])) AND (survival[tw] OR surviving[tw] OR resuscitation[tw] OR "Resuscitation"[MAJR])) AND (“Shock, Septic”[Mesh] OR "Sepsis"[MAJR] OR sepsis[tw] OR "septic shock") AND (early[tw] OR hours OR hours OR minutes OR “3-hour” OR "Time Factors"[Mesh] OR "time-to-treatment" OR "time to treatment" OR "Time-to-Treatment"[Mesh] OR “time factor”[tw]) AND (english[Filter]); Date limited to 2000-2020](https://pubmed.ncbi.nlm.nih.gov/?term=%28%22Fluid+Therapy%22%5BMAJR%5D%29+OR+fluid%5Btw%5D+OR+solutions%5Btw%5D%29%29+AND+%28survival%5Btw%5D+OR+surviving%5Btw%5D+OR+resuscitation%5Btw%5D+OR+%22Resuscitation%22%5BMAJR%5D%29%29+AND+%28%E2%80%9CShock%2C+Septic%E2%80%9D%5BMesh%5D+OR+%22Sepsis%22%5BMAJR%5D+OR+sepsis%5Btw%5D+OR+%22septic+shock%22%29+AND+%28early%5Btw%5D+OR+hours+OR+hours+OR+minutes+OR+%E2%80%9C3-hour%E2%80%9D+OR+%22Time+Factors%22%5BMesh%5D+OR+%22time-to-treatment%22+OR+%22time+to+treatment%22+OR+%22Time-to-Treatment%22%5BMesh%5D+OR+%E2%80%9Ctime+factor%E2%80%9D%5Btw%5D%29+AND+%28english%5BFilter%5D%29&sort=pubdate&size=50)
 * Retrieves 3 of [5 articles in hand](https://pubmed.ncbi.nlm.nih.gov/?term=30646296+OR+27085369+OR+28671898+OR+29298189+OR+25260233&sort=pubdate) (60% sensitivity) (search 09/13/2021)
 * 12 total citations found (search results reviewed 6/x/2017; 0 additional studies found)
 
@@ -55,11 +55,9 @@ This resources has been discontinued by the National Library of Medicine. Detail
 (under construction)
 
 ### Identifying seminal studies that are the most highly cited
-Smith GD, Dyson K, Taylor D, Morgans A, Cantwell K. Effectiveness of the Valsalva Manoeuvre for reversion of supraventricular tachycardia. Cochrane Database Syst Rev. 2013 Mar 28;(3):CD009502. doi: 10.1002/14651858.CD009502.pub2. Review. Update in: Cochrane Database Syst Rev. 2015 PMID: [23543578](http://pubmed.gov/23543578).
- * [17 citations](https://scholar.google.com/scholar?cites=2217747907445562937&as_sdt=2005&sciodt=0,5&hl=en) (search 6/19/2017)
-
-Mehta D, Wafa S, Ward DE, Camm AJ. Relative efficacy of various physical manoeuvres in the termination of junctional tachycardia. Lancet. 1988.PMID: [2897005](http://pubmed.gov/2897005).
- * [105 citations ](https://scholar.google.com/scholar?cites=7605211014335624801) (search 6/19/2017)
+Leisman D, Wie B, Doerfler M, Bianculli A, Ward MF, Akerman M, D'Angelo JK, Zemmel D'Amore JA. Association of Fluid Resuscitation Initiation Within 30 Minutes of Severe Sepsis and Septic Shock Recognition With Reduced Mortality and Length of Stay. Ann Emerg Med. 2016 Sep;68(3):298-311. doi: 10.1016/j.annemergmed.2016.02.044. Epub 2016 Apr 14. PMID: [27085369](http://pubmed.gov/27085369).
+ * [17 citations](https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&from_uid=27085369) (search 09/13/20217)
+ * [x additional studies found](https://pubmed.gov/25503625,27045252)
 
 <!--
 ### Searching 'random*' within the highly citing studyies using Google Scholar (4/21/2017)
