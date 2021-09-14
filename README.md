@@ -7,8 +7,9 @@ Short url: http://openmetaanalysis.github.io/sepsis/
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 79%. The heterogeneity may be due to the study by Seymour excluding patients with long delaying in completion of fluids. This review updates previously published meta-analysis(es).(citation[s] below)
 
 Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
-* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
-* [Keep current with this topic](files/searching/Keep-up.md) (under construction)
+<!-- * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction) -->
+* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions%20-%20fluids%20for%20sepsis.pdf)
+<!--* [Keep current with this topic](files/searching/Keep-up.md) (under construction)-->
 
 Acknowledgement: we acknowledge the essential work by the authors of the prior [systematic review(s)](#systematic-reviews) listed below.
 
@@ -17,9 +18,10 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 * [Evidence search](files/searching/evidence-search.md) for this review (under construction)
 
 **Results:** Details of the studies included are in the:
-* [Reconciliation of cohorts included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf)
+<!-- * [Reconciliation of cohorts included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf) -->
+* [Reconciliation of cohorts included with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions%20-%20fluids%20for%20sepsis.pdf)
 * [Description of studies (PICO table)](files/study-details/table-pico.pdf) (under construction)
-* [Risk of bias assessment](files/study-details/table-bias.pdf) (under construction)
+* [Risk of bias assessment (Clarity)](files/study-details/table-bias.pdf) (under construction)
 * [Forest plots](../master/files/forest-plots) ([source data](files/data))
 * [Network plots](../master/files/network) (optional)
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
@@ -54,9 +56,7 @@ References:
 Not applicable
 
 #### Studie(s) undergoing review
-1. Khan RA, Khan NA, Bauer SR, Li M, Duggal A, Wang X, Reddy AJ. Association Between Volume of Fluid Resuscitation and Intubation in High-Risk Patients With Sepsis, Heart Failure, End-Stage Renal Disease, and Cirrhosis. Chest. 2020 Feb;157(2):286-292. doi: 10.1016/j.chest.2019.09.029. Epub 2019 Oct 14. PMID: [31622591](http://pubmed.gov/31622591).
-1. Meyhoff TS, Møller MH, Hjortrup PB, Cronhjort M, Perner A, Wetterslev J. Lower vs Higher Fluid Volumes During Initial Management of Sepsis: A Systematic Review With Meta-Analysis and Trial Sequential Analysis. Chest. 2020 Jun;157(6):1478-1496. doi: 10.1016/j.chest.2019.11.050. Epub 2020 Jan 23. PMID: [31982391](http://pubmed.gov/31982391).
-2. Hu B, Chen JCY, Dong Y, Frank RD, Passe M, Portner E, Peng Z, Kashani K. Effect of initial infusion rates of fluid resuscitation on outcomes in patients with septic shock: a historical cohort study. Crit Care. 2020 Apr 7;24(1):137. doi: 10.1186/s13054-020-2819-5. PMID: [32264936](http://pubmed.gov/32264936).
+None
 
 #### Trial(s) excluded - selected list of important trial(s)
 1. Marik PE, Linde-Zwirble WT, Bittner EA, Sahatjian J, Hansell D. Fluid administration in severe sepsis and septic shock, patterns and outcomes: an analysis of a large national database. Intensive Care Med. 2017 May;43(5):625-632. doi: 10.1007/s00134-016-4675-y. Epub 2017 Jan 27. PubMed PMID: [28130687](http://pubmed.gov/28130687). *Did not analyze 30 cc/kg within 3 hours vs slower* 
@@ -65,6 +65,9 @@ Not applicable
 3. Jeong WI, Kim J-S, Yu J, Kang J, Yu G, Cho Y, Jung S, Kim WY, Ryoo SM. The prognostic value of 1-hour bundle completion in septic shock patients. Journal of The Korean Society of Emergency Medicine [Internet]. The Korean Society of Emergency Medicine; 2019 Dec 31 [cited 2021 Sep 8];30(6):537–544. Available from: https://www.jksem.org/journal/view.php?number=2349 *studied completion of fluids within one hour rather than starting of fluids within one hour*
 4. Ko BS, Choi SH, Shin TG, Kim K, Jo YH, Ryoo SM, Park YS, Kwon WY, Choi HS, Chung SP, Suh GJ, Kang H, Lim TH, Son D, Kim WY. Impact of 1-Hour Bundle Achievement in Septic Shock. J Clin Med. 2021 Feb 2;10(3):527. doi: 10.3390/jcm10030527. PMID: [33540513](http://pubmed.gov/33540513). *Studied bundle completion among those started on the bundle. Also, did not isolate the role of fluids*
 5. Baghdadi JD, Brook RH, Uslan DZ, Needleman J, Bell DS, Cunningham WE, Wong MD. Association of a Care Bundle for Early Sepsis Management With Mortality Among Patients With Hospital-Onset or Community-Onset Sepsis. JAMA Intern Med. 2020 May 1;180(5):707-716. doi: 10.1001/jamainternmed.2020.0183. PMID: [32250412](http://pubmed.gov/32250412) *Studied 3 hour bundle and not one hour bundle*
+1. Khan RA, Khan NA, Bauer SR, Li M, Duggal A, Wang X, Reddy AJ. Association Between Volume of Fluid Resuscitation and Intubation in High-Risk Patients With Sepsis, Heart Failure, End-Stage Renal Disease, and Cirrhosis. Chest. 2020 Feb;157(2):286-292. doi: 10.1016/j.chest.2019.09.029. Epub 2019 Oct 14. PMID: [31622591](http://pubmed.gov/31622591).  *studied volume of fluids rather than starting of fluids within one hour*
+1. Meyhoff TS, Møller MH, Hjortrup PB, Cronhjort M, Perner A, Wetterslev J. Lower vs Higher Fluid Volumes During Initial Management of Sepsis: A Systematic Review With Meta-Analysis and Trial Sequential Analysis. Chest. 2020 Jun;157(6):1478-1496. doi: 10.1016/j.chest.2019.11.050. Epub 2020 Jan 23. PMID: [31982391](http://pubmed.gov/31982391).  *studied volume of fluids rather than starting of fluids within one hour*
+2. Hu B, Chen JCY, Dong Y, Frank RD, Passe M, Portner E, Peng Z, Kashani K. Effect of initial infusion rates of fluid resuscitation on outcomes in patients with septic shock: a historical cohort study. Crit Care. 2020 Apr 7;24(1):137. doi: 10.1186/s13054-020-2819-5. PMID: [32264936](http://pubmed.gov/32264936).  *studied rate of fluids within one hour rather than starting of fluids within one hour*
 
 
 #### Cited by
