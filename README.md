@@ -60,7 +60,8 @@ References:
 Not applicable
 
 #### Studie(s) undergoing review
-None
+1. Zampieri FG, Machado FR, Biondi RS, Freitas FGR, Veiga VC, Figueiredo RC, Lovato WJ, Amêndola CP, Assunção MSC, Serpa-Neto A, Paranhos JLR, Andrade J, Godoy MMG, Romano E, Dal Pizzol F, Silva EB, Silva MML, Machado MCV, Malbouisson LMS, Manoel ALO, Thompson MM, Figueiredo LM, Soares RM, Miranda TA, de Lima LM, Santucci EV, Corrêa TD, Azevedo LCP, Kellum JA, Damiani LP, Silva NB, Cavalcanti AB; BaSICS investigators and the BRICNet members. Effect of Slower vs Faster Intravenous Fluid Bolus Rates on Mortality in Critically Ill Patients: The BaSICS Randomized Clinical Trial. JAMA. 2021 Sep 7;326(9):830-838. doi: 10.1001/jama.2021.11444. PMID: [34547081](http://pubmed.gov/34547081) *Reports outcome for sepsis subgroups, but only reports by speed of infusion rate and not by speed of initiating fluids*.
+2. Maitland K, George EC, Evans JA, Kiguli S, Olupot-Olupot P, Akech SO, Opoka RO, Engoru C, Nyeko R, Mtove G, Reyburn H, Brent B, Nteziyaremye J, Mpoya A, Prevatt N, Dambisya CM, Semakula D, Ddungu A, Okuuny V, Wokulira R, Timbwa M, Otii B, Levin M, Crawley J, Babiker AG, Gibb DM; FEAST trial group. Exploring mechanisms of excess mortality with early fluid resuscitation: insights from the FEAST trial. BMC Med. 2013 Mar 14;11:68. doi: 10.1186/1741-7015-11-68. PMID: [23496872](http://pubmed.gov/23496872).*Does not repot outcome for sepsis subgroups. Pediatrics only*
 
 #### Trial(s) excluded - selected list of important trial(s)
 1. Andrews B, Semler MW, Muchemwa L, Kelly P, Lakhi S, Heimburger DC, Mabula C, Bwalya M, Bernard GR. Effect of an Early Resuscitation Protocol on In-hospital Mortality Among Adults With Sepsis and Hypotension: A Randomized Clinical Trial. JAMA. 2017 Oct 3;318(13):1233-1240. doi: 10.1001/jama.2017.10913. PMID: [28973227](http://pubmed.gov/28973227); *did not report outcomes by speed of initiating fluids*.
