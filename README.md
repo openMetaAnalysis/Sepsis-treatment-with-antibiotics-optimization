@@ -9,7 +9,7 @@ Short url: http://openmetaanalysis.github.io/sepsis/
 Subgroup analysis suggested a trend that was insignificant.
 <!-- * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction) -->
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions%20-%20fluids%20for%20sepsis.pdf)
-<!--* [Keep current with this topic](files/searching/Keep-up.md) (under construction)-->
+[Keep current with this topic](files/searching/Keep-up.md)
 
 Acknowledgement: we acknowledge the essential work by the authors of the prior [systematic review(s)](#systematic-reviews) listed below.
 
