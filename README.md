@@ -7,8 +7,7 @@ Short url: http://openmetaanalysis.github.io/sepsis/
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 86%. The heterogeneity may be due to varying levels of patient acuity across studies as reflected in differing levels of mean lactic acid and age in the cohorts. Heterogeneity may also be due to varying cutoffs across studies for defining rapid adminstration of fluids. This review updates previously published meta-analysis(es).
 
 Subgroup analysis suggested a trend that was insignificant.
-<!-- * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction) -->
-* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions%20-%20fluids%20for%20sepsis.pdf)
+* [Reconciliation of studies and conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions.pdf)
 * [Keep current with this topic](files/searching/Keep-up.md)
 
 Acknowledgement: we acknowledge the essential work by the authors of the prior [systematic review(s)](#systematic-reviews) listed below.
@@ -18,14 +17,11 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 * [Evidence search](files/searching/evidence-search.md) for this review
 
 **Results:** Details of the studies included are in the:
-<!-- * [Reconciliation of cohorts included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf) -->
-* [Reconciliation of cohorts included with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions%20-%20fluids%20for%20sepsis.pdf)
+* [Reconciliation of studies and conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions.pdf)
 * [Description of studies (PICO table)](files/study-details/table-pico.pdf) (under construction)
 * [Risk of bias assessment (Clarity)](files/study-details/table-bias.pdf) (under construction)
 * [Forest plots](../master/files/forest-plots) ([source data](files/data))
-<!-- * [Network plots](../master/files/network) (optional)
-* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction) -->
-* [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions%20-%20fluids%20for%20sepsis.pdf)
+<!-- * [Network plots](../master/files/network) (optional) -->
 
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
