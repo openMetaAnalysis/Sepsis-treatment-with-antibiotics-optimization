@@ -57,6 +57,7 @@ Not applicable
 
 #### Studie(s) undergoing review
 1. Bautista Hernández A, de Vega-Ríos E, Serrano Ballesteros J, Useros Braña D, Cardeñoso Domingo L, Figuerola Tejerina A, Jiménez Jiménez D, de Los Santos Gil I, Sáez Béjar C. Impact of the implementation of a Sepsis Code Program in medical patient management: a cohort study in an Internal Medicine ward. Rev Esp Quimioter. 2022 Jan 31:bautista31jan2022. doi: 10.37201/req/132.2021. Epub ahead of print. PMID: 35099161.
+2. Zampieri FG, Machado FR, Biondi RS, et al; BaSICS investigators and the BRICNet members. Effect of Slower vs Faster Intravenous Fluid Bolus Rates on Mortality in Critically Ill Patients: The BaSICS Randomized Clinical Trial. JAMA. 2021 Sep 7;326(9):830-838. doi: 10.1001/jama.2021.11444. PMID: [34547081](http://pubmed.gov/34547081)* Asnoted below, has rates*
 
 #### Trial(s) excluded - selected list of important trial(s)
 1. Andrews B, Semler MW, Muchemwa L, Kelly P, Lakhi S, Heimburger DC, Mabula C, Bwalya M, Bernard GR. Effect of an Early Resuscitation Protocol on In-hospital Mortality Among Adults With Sepsis and Hypotension: A Randomized Clinical Trial. JAMA. 2017 Oct 3;318(13):1233-1240. doi: 10.1001/jama.2017.10913. PMID: [28973227](http://pubmed.gov/28973227); *did not report outcomes by speed of initiating fluids*.
