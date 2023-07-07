@@ -81,7 +81,8 @@ Not applicable
 #### Cited by
 This repository is cited by:
 
-1. WikiDoc contributors. Pending content page. WikiDoc. Nov 9, 2014. Available at: http://www.wikidoc.org/index.php/This_topic. Accessed November 9, 2014. 
+1. Ward MA, Kuttab HI, Tuck N, Taleb A, Okut H, Badgett RG. The Effect of Fluid Initiation Timing on Sepsis Mortality: A Meta-Analysis. J Intensive Care Med. 2022 Nov;37(11):1504-1511. doi: 10.1177/08850666221118513. Epub 2022 Aug 9. PMID: [35946105](HTTP://pubmed.gov/35946105).
+2. WikiDoc contributors. Pending content page. WikiDoc. Nov 9, 2014. Available at: http://www.wikidoc.org/index.php/This_topic. Accessed November 9, 2014. 
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [License](files/LICENSE.md) - [History](../../commits/master/README.md)  - 
