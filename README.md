@@ -1,4 +1,4 @@
-Severe sepsis and septic shock treatment with fluids
+Severe sepsis and septic shock treatment - antibiotics optimization
 ============================================
 A living systematic review
 
