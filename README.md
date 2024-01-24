@@ -38,7 +38,7 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Pending
+1. Guo Y, Gao W, Yang H, Ma C, Sui S. De-escalation of empiric antibiotics in patients with severe sepsis or septic shock: A meta-analysis. Heart Lung. 2016 Sep-Oct;45(5):454-9. doi: 10.1016/j.hrtlng.2016.06.001. Epub 2016 Jun 20. PMID: [27340006](http://pubmed.gov/27340006).
 
 ### Studies
 #### New studie(s) *not* included in the most recent review above
