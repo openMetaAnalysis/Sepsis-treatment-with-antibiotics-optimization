@@ -1,7 +1,0 @@
-"Study","Year","PMID","OR","CI.l","CI.u","Size","Outcome","group","Analysis","Recommended","style"
-"Leisman, 2016","2016",27085369,0.63,0.46,0.86,1866,"Mortality",1,".Initiation","100%","normal"
-"Leisman, 2017","2017",28671898,1.09,1.03,1.16,11182,"Survival",1,".Initiation","100%","normal"
-"Pruinelli, 2018","2018",29298189,NA,NA,NA,5072,"Mortality",1,".Initiation","100%","normal"
-"Lee, 2014","2014",24853382,0.34,0.15,0.75,594,"Mortality",1,"Volume in 3 hr / 6 hr","100%","normal"
-"Kuttab, 2019","2019",31393324,1.52,1.03,2.24,1032,"Survival",1,"Completion within 3 hrs","100% within 3 hrs","normal"
-"Seymour, 2018*","2018*",28528569,1.01,0.99,1.02,26978,"Survival",1,"Completion within 6 hrs","100%","normal"
