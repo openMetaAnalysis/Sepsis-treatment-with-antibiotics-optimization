@@ -1,0 +1,5 @@
+Notes:
+Madaline. This was a before-after cohort study and so should have less bias than the other cohorts in which hospitalists 
+made their own decisions to de-escalate.
+Rashidzada. This RCT used an antimicrobial stewardship (AMS) team of an ID consultant and a pharmacist.  
+The team could also recommend a formal ID consult.
