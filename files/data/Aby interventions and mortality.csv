@@ -1,0 +1,13 @@
+﻿Study,Year,PMID,Registration,experimental_events,experimental_total,control_events,control_total,Intervention,Design,
+De Bus (DIANA),2020,32519003,NCT02920463,38,240,181,934,Aby de-escalation (Non RCT),Non-randomized,
+Madaline*,2019,31687417,NA,27,111,52,137,ID Consult,Non-randomized (before-after),
+Kwon,2019,31319347,NA,15,40,37,67,Aby de-escalation (Non RCT),Non-randomized,
+Ferrer (ABISS-Edusepsis Study group),2018,29933756,NA,375,1276,412,1352,Education,Non-randomized (before-after),
+Leone (AZUREA),2014,25091790,NCT01626612,18,59,13,57,Aby de-escalation (Non RCT),Randomized,
+Schmidt (e),2014,24072931,NA,82613,101991,136293,170366,ID Consult,Non-randomized (exclude),Exclude
+Garnacho-Montero,2014,24026297,NA,44,179,81,224,Aby de-escalation (Non RCT),Non-randomized,
+Francis,2010,20650022,NA,NA,1276,NA,1352,Protocol,Non-randomized,
+Moreas(J),2016,27626951,NA,25,44,101,180,Aby de-escalation (Non RCT),Non-randomized,
+Teh (AMS Team),2021,35052899,NA,44,132,18,48,Aby de-escalation (Non RCT),Non-randomized,
+Roper(e),2023,37368430,NA,NA,NA,NA,NA,Aby de-escalation (Non RCT),Non-randomized (exclude),Exclude
+Pedroso,2021,33643032,NA,16,58,28,33,ID Consult,Non-randomized,
