@@ -43,7 +43,8 @@ References:
 ### Studies
 #### New studie(s) *not* included in the most recent review above
 1. Leone M, Bechis C, Baumstarck K, Lefrant JY, Albanèse J, Jaber S, Lepape A, Constantin JM, Papazian L, Bruder N, Allaouchiche B, Bézulier K, Antonini F, Textoris J, Martin C; AZUREA Network Investigators. De-escalation versus continuation of empirical antimicrobial treatment in severe sepsis: a multicenter non-blinded randomized noninferiority trial. Intensive Care Med. 2014 Oct;40(10):1399-408. doi: 10.1007/s00134-014-3411-8. Epub 2014 Aug 5. Erratum in: Intensive Care Med. 2014 Nov;40(11):1794. PMID: [25091790](http://pubmed.gov/25091790).
-2. Madaline T, Wadskier Montagne F, Eisenberg R, Mowrey W, Kaur J, Malik M, Gendlina I, Guo Y, White D, Pirofski LA, Sarwar U. Early Infectious Disease Consultation Is Associated With Lower Mortality in Patients With Severe Sepsis or Septic Shock Who Complete the 3-Hour Sepsis Treatment Bundle. Open Forum Infect Dis. 2019 Oct 31;6(10):ofz408. doi: 10.1093/ofid/ofz408. PMID: [31687417](http://pubmed.gov/31687417).
+2. Rashidzada Z, Cairns KA, Peel TN, Jenney AW, Doyle JS, Dooley MJ, Cheng AC. Early antimicrobial stewardship team intervention on appropriateness of antimicrobial therapy in suspected sepsis: a randomized controlled trial. JAC Antimicrob Resist. 2021 Aug 27;3(3):dlab097. doi: 10.1093/jacamr/dlab097. PMID: [34458731](http://pubmed.gov/34458731).
+3. Madaline T, Wadskier Montagne F, Eisenberg R, Mowrey W, Kaur J, Malik M, Gendlina I, Guo Y, White D, Pirofski LA, Sarwar U. Early Infectious Disease Consultation Is Associated With Lower Mortality in Patients With Severe Sepsis or Septic Shock Who Complete the 3-Hour Sepsis Treatment Bundle. Open Forum Infect Dis. 2019 Oct 31;6(10):ofz408. doi: 10.1093/ofid/ofz408. PMID: [31687417](http://pubmed.gov/31687417).
 
 #### Studie(s) included in the review above
 Not applicable
