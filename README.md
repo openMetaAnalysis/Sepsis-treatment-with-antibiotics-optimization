@@ -51,9 +51,10 @@ Not applicable
 #### Studie(s) undergoing review
 1. Pending
 
-#### Trial(s) excluded - selected list of important trial(s)
+#### Studie(s) excluded - selected list of important trial(s)
 1. Schmitt S, McQuillen DP, Nahass R, Martinelli L, Rubin M, Schwebke K, Petrak R, Ritter JT, Chansolme D, Slama T, Drozd EM, Braithwaite SF, Johnsrud M, Hammelman E. Infectious diseases specialty intervention is associated with decreased mortality and lower healthcare costs. Clin Infect Dis. 2014 Jan;58(1):22-8. doi: 10.1093/cid/cit610. Epub 2013 Sep 25. PMID: [24072931](http://pubmed.gov/24072931). *Event rates in subpopulations with sepsis or septic shock not reported*
 2. Roper S, Wingler MJB, Cretella DA. Antibiotic De-Escalation in Critically Ill Patients with Negative Clinical Cultures. Pharmacy (Basel). 2023 Jun 16;11(3):104. doi: 10.3390/pharmacy11030104. PMID: [37368430](http://pubmed.gov/37368430). *Less than half of patients had sepsis*.
+3. Francis M, Rich T, Williamson T, Peterson D. Effect of an emergency department sepsis protocol on time to antibiotics in severe sepsis. CJEM. 2010 Jul;12(4):303-10. doi: 10.1017/s1481803500012380. PMID:  [20650022](http://pubmed.gov/20650022). *Had ED mortality, but not hospital or 30-day mortality.*
 
 #### Cited by
 This repository is cited by:
