@@ -4,7 +4,9 @@ A living systematic review
 
 Short url: http://openmetaanalysis.github.io/sepsis/
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 86%. The heterogeneity may be due to varying levels of patient acuity across studies as reflected in differing levels of mean lactic acid and age in the cohorts. Heterogeneity may also be due to varying cutoffs across studies for defining rapid adminstration of fluids. This review updates previously published meta-analysis(es).
+**Clinical summary:** This meta-analysis suggests that selected clinical intervention *may be* effective. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 86%. The heterogeneity may be due to varying levels of patient acuity across studies as reflected in differing levels of mean lactic acid and age in the cohorts. Heterogeneity may also be due to varying cutoffs across studies for defining rapid adminstration of fluids. This review updates previously published meta-analysis(es).
+
+Non-randomized studiesof de-escalation may be biased by patients who were de-escalated were not as sick (PMID [27493799](http://pubmed.gov/27493799)).
 
 Subgroup analysis suggested a trend that was insignificant.
 * [Reconciliation of studies and conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions.pdf)
